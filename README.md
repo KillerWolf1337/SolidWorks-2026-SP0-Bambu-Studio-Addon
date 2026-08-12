@@ -61,9 +61,9 @@ This project does not include or redistribute SOLIDWORKS, Bambu Studio, or their
 
 ## License
 
-The source code is available under the license included in this repository.
 
-If no license file is included, all rights to the source code remain with the author.
+
+All rights to the source code remain with the author.
 
 ## Issues
 
