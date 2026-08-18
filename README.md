@@ -23,7 +23,7 @@ SOLIDWORKS and Bambu Studio are not included with this project and need to be in
 
 ## Installation
 
-Download the latest release and register the DLL as a SOLIDWORKS COM add-in.
+Download the latest release and run the .exe.
 
 After starting SOLIDWORKS, enable **Bambu SolidWorks** under **Tools → Add-Ins**.
 
